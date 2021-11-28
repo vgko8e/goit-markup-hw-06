@@ -308,8 +308,8 @@ border-bottom: 1px solid #ececec;
 }
 
 .form {
-  position: absolute;
   display: flex;
+  flex-direction: column;
   margin-top: 10px;
 }
 
@@ -404,13 +404,13 @@ border-bottom: 1px solid #ececec;
 .comment {
   display: flex;
   margin-top: 10px;
-}
+} */
 
 .input-comment {
   width: 448px;
   height: 120px;
   padding: 12px 16px;
-} */
+} 
 
 .btn-close {
   display: flex;
