@@ -276,7 +276,6 @@ border-bottom: 1px solid #ececec;
 }
 
 .modal {
-  display: block;
   position: absolute;
   width: 528px;
   height: 581px;
@@ -338,71 +337,6 @@ border-bottom: 1px solid #ececec;
   left: 12px;
   top: 11px;
 }
-
-/* .tel-id { 
-  font-size: 12px;
-  margin-bottom: 6px;
-  line-height: 1.17;
-  letter-spacing: 0.01em;
-  color: #757575;
-}
-
-.tel-input {
-  position: relative;
-  margin-bottom: 10px;
-}
-
-.input-number {
-  position: absolute;
-  width: 448px;
-  height: 40px;
- 
-
-  border: 1px solid rgba(33, 33, 33, 0.2);
-  box-sizing: border-box;
-  border-radius: 4px;
-}
-
-.tel-icon {
-  position: absolute;
-  left: 12px;
-  top: 11px;
-}
-
-.mail-id {
-  font-size: 12px;
-  margin-bottom: 6px;
-  line-height: 1.17;
-  letter-spacing: 0.01em;
-  color: #757575;
-}
-
-.mail-input {
-  position: relative;
-  margin-bottom: 10px;
-}
-
-.input-mail {
-  position: absolute;
-  width: 448px;
-  height: 40px;
- 
-
-  border: 1px solid rgba(33, 33, 33, 0.2);
-  box-sizing: border-box;
-  border-radius: 4px;
-}
-
-.mail-icon {
-  position: absolute;
-  left: 12px;
-  top: 11px;
-}
-
-.comment {
-  display: flex;
-  margin-top: 10px;
-} */
 
 .input-comment {
   width: 448px;
@@ -1029,6 +963,3 @@ border-color: var(--accent-color);
   box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12), 0px 4px 4px rgba(0, 0, 0, 0.06), 1px 4px 6px rgba(0, 0, 0, 0.16);
 }
 
-.input-name {
-  position: absolute;
-}
