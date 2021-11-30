@@ -374,6 +374,7 @@ border-bottom: 1px solid #ececec;
 
 .input-comment:focus {
   border: 1px solid var(--accent-color);
+  outline: none;
 }
 
 .form .input-comment::placeholder {
