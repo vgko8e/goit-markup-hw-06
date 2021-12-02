@@ -639,9 +639,6 @@ border-bottom: 1px solid #ececec;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.social-list .link:not(:last-child) {
-  margin: 0;
-}
 
 .link-item:hover,
 .link-item:focus {
