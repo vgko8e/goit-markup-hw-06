@@ -454,6 +454,7 @@ border-bottom: 1px solid #ececec;
 .btn-close {
   display: flex;
   align-items: center;
+  justify-content: center;
   position: absolute;
   border-radius: 50%;
   top: 8px;
