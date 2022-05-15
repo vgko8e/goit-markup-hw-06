@@ -558,9 +558,9 @@ border-bottom: 1px solid #ececec;
 }
 
 .work-article {
- position: absolute;
- width: 100%;
- bottom: 27px;
+  position: absolute;
+  width: 100%;
+  bottom: 27px;
 }
 
 .work-text {
